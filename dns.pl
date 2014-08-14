@@ -1,4 +1,3 @@
-# añado linea para subir a git por comando
 #!/usr/bin/perl
 use strict;
 use warnings;
